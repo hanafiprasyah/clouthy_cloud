@@ -6,4 +6,4 @@ This application is in the process of being built. I will publish a new release 
 
 You can find me on :
 
-- Instagram : [https://instragram.com/prasyaah_)
+- Instagram : [https://www.instagram.com/prasyaah_/]
