@@ -1,16 +1,9 @@
-# clothy_cloud
+# Flutter App : clothy_cloud
 
-Sell your CLOTHES using your CLOUD app
+This application is in the process of being built. I will publish a new release as soon as possible! Stay tune.
 
-## Getting Started
+## About me
 
-This project is a starting point for a Flutter application.
+You can find me on :
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Instagram : [https://instragram.com/prasyaah_)
